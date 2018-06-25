@@ -41,4 +41,4 @@ For the purpose of this file, the term *PL*" and "*Programming Language*" will b
 - [Java 10 Released: 10 New Features Devs Should Know](https://dzone.com/articles/java-10-released-10-new-features-devs-should-know?utm_source=quora)
 - [A Talk about Free Software](https://www.youtube.com/watch?v=KpsSvBvFXNQ) (Jon "Maddog" Hall)
 - [Lógica de Programação não existe](https://www.youtube.com/watch?v=VpzhH9CXOy0) (Paulo Torrens) [About "Programming Logics", a usual subject in brazilian colleges, universities and schools, that doesn't actually mean anything]
-- [~~Hypercomputing: computing more than the Turing Machine~~](https://arxiv.org/ftp/math/papers/0209/0209332.pdf) (Toby Ord)
+- [Hypercomputing: computing more than the Turing Machine](https://arxiv.org/ftp/math/papers/0209/0209332.pdf) (Toby Ord)
