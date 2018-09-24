@@ -42,3 +42,19 @@ For the purpose of this file, the term *PL*" and "*Programming Language*" will b
 - [A Talk about Free Software](https://www.youtube.com/watch?v=KpsSvBvFXNQ) (Jon "Maddog" Hall)
 - [Lógica de Programação não existe](https://www.youtube.com/watch?v=VpzhH9CXOy0) (Paulo Torrens) [About "Programming Logics", a usual subject in brazilian colleges, universities and schools, that doesn't actually mean anything]
 - [Hypercomputing: computing more than the Turing Machine](https://arxiv.org/ftp/math/papers/0209/0209332.pdf) (Toby Ord)
+
+
+## Categorize later
+https://link.springer.com/chapter/10.1007%2F3-540-45022-X_5
+https://web.archive.org/web/20090419084658/http://research.sun.com:80/techrep/1994/smli_tr-94-25.pdf
+https://arxiv.org/abs/1710.01547
+https://blog.rust-lang.org/2017/11/14/Fearless-Concurrency-In-Firefox-Quantum.html
+https://software.intel.com/en-us/articles/intel-sdm
+https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/TrendsandConcepts/2010/Dementiev_Processor__Performance__Counter_Monitoring_by_Roman_Dementiev_14-07-2010.pdf
+https://queue.acm.org/detail.cfm?id=3212479
+https://arxiv.org/abs/0903.0340
+http://web.archive.org/web/20150308085419/http://www.lambdassociates.org/blog/bipolar.htm
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUwNTQyNDg1MV19
+-->
