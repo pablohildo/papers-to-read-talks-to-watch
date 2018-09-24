@@ -54,7 +54,7 @@ https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/TrendsandConc
 https://queue.acm.org/detail.cfm?id=3212479
 https://arxiv.org/abs/0903.0340
 http://web.archive.org/web/20150308085419/http://www.lambdassociates.org/blog/bipolar.htm
-
+http://www.stroustrup.com/bs_faq.html#C-slash
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTQyNDg1MV19
+eyJoaXN0b3J5IjpbLTEzODAyMzcxNDhdfQ==
 -->
